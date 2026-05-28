@@ -1,5 +1,0 @@
-requests
-pip
-pytest
-allure-pytest
-allure-python-commons
